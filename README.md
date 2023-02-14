@@ -17,6 +17,11 @@ https://github.com/NoeMoyen/LoL-LCU-Deathnote.git
 install library:
 pip install lcu_driver
 
+modify the report reason in the script line 26:
+"comment": "[reported by DeathNote.py]",
+with something like:
+"comment": "Player afk, don't whant to play, troll, etc..."
+
 run the script:
 python deathnote.py
 
