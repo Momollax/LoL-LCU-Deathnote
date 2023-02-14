@@ -40,4 +40,14 @@ then i wait 1 hour before being able to report him again.
 
 if you have any question, feel free to ask me :)
 
+# TODO
+
+- find a way to report a player without having to wait 1 hour
+- add multiple person report
+- find the worst game of the player in the last 21 games and report on this game.
+- generic report reason
+- connect/disconnect on multiples account for automatic report
+- make a website where people can enter a summoner name, so it become a community report tool 
+
+
 Discord: Momolly#7525
